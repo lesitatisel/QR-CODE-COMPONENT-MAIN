@@ -32,6 +32,10 @@ section img {
   font-weight: 700;
 }
 
+.grey-text {
+  color: var(--Grayish-blue);
+}
+
 @media (max-width: 375px) {
   section {
     width: 80%;
